@@ -1,7 +1,7 @@
 [{"state":"Alabama","val":38.8,"se":0.2,"abbrev":"AL"},
 {"state":"Alaska","val":41.9,"se":0.4,"abbrev":"AK"},
 {"state":"Arizona","val":38.3,"se":0.2,"abbrev":"AZ"},
-{"state":"Arkansas","val":39.2,"se":0.2,"abbrev":"AR"},
-{"state":"California","val":37.7,"se":0.2,"abbrev":"CA"},
-{"state":"Colorado","val":38.6,"se":0.2,"abbrev":"CO"},
+{"state":"Arkansas","val":"z","se":0.2,"abbrev":"AR"},
+{"state":"California","val":"g","se":0.2,"abbrev":"CA"},
+{"state":"Colorado","val":"d","se":0.2,"abbrev":"CO"},
 {"state":"Connecticut","val":37.8,"se":0.2,"abbrev":"CT"}]
